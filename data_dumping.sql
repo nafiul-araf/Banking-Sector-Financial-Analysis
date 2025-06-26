@@ -36,3 +36,7 @@ left join `investment-advisiors` ia on bc.`IAId` = ia.`ï»¿IAId`
 left join `banking-realtionships` br on bc.`BRId` = br.`ï»¿BRId`;
 
 select * from banking_data;
+
+
+-- Data from Python EDA
+select * from banking_data_updated;
