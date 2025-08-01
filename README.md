@@ -1,5 +1,7 @@
 ## Overview
 
+[Dashboard](https://app.powerbi.com/reportEmbed?reportId=f8925c44-0347-4d76-8b46-6baaf8ca652b&autoAuth=true&ctid=20b9ba66-a11d-4938-b794-f2e85b138818&actionBarEnabled=true)
+
 This project transforms raw banking data stored in a MySQL database into a robust risk analysis framework, enabling financial institutions to mitigate credit risk effectively. Starting with a dataset of client records, the project employs Python for data cleaning, outlier detection, and machine learning algorithms (Random Forest and K-Means clustering) to generate risk scores and cluster assignments. The results are visualized in a dynamic Power BI dashboard, including a drill-through client profile page for detailed risk assessment, connected directly to the MySQL database. This project showcases end-to-end data science skills applicable to banking analytics, loan approval processes, and Fintech innovation.
 
 **Keywords**: Credit Risk Analysis, Banking Data Analytics, Fintech Solutions, Machine Learning for Finance, Power BI Visualization, Risk Management, MySQL Integration.
